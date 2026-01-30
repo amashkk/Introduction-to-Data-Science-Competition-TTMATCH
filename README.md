@@ -141,8 +141,4 @@ table-tennis-prediction/
 - `pointId`：預測落點
 - `actionId`：預測動作
 
-## 🙏 致謝
-
-感謝提供桌球比賽數據的主辦方。
-
 
